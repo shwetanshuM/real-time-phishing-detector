@@ -1,0 +1,23 @@
+body {
+    width: 300px;
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+    padding: 20px;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    background: cyan;
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
